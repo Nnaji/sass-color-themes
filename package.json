@@ -1,0 +1,26 @@
+{
+  "name": "sass-color-themes",
+  "version": "1.0.0",
+  "description": "Color Themes for Sass Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nnaji/sass-color-themes.git"
+  },
+  "keywords": [],
+  "author": "Kingsley <kingsley.nnaji@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nnaji/sass-color-themes/issues"
+  },
+  "homepage": "https://github.com/Nnaji/sass-color-themes#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "stylelint": "^13.0.0",
+    "stylelint-config-prettier": "^8.0.1",
+    "stylelint-prettier": "^1.1.2"
+  }
+}
