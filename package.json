@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Nnaji/sass-color-themes#readme",
   "devDependencies": {
     "prettier": "^1.19.1",
-    "stylelint": "^13.0.0",
+    "stylelint": "^13.13.1",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-prettier": "^1.1.2"
   }
